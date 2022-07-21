@@ -26,6 +26,10 @@
 		},
 		{
 			"path": "ql"
+		},
+		{
+			"name": "[apache_commons-math source archive]",
+			"uri": "codeql-zip-archive://1-46/d:\\PythonProjects\\apache_commons-math\\src.zip"
 		}
 	],
 	"settings": {
